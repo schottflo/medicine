@@ -11,9 +11,9 @@ Also, there is a column called "pid" that identifies each patient uniquely.
 The user needs to save three separate files in the working directory. One of them should contain the feature vectors for the training set, another one the feature vectors for the test set. Third, a separate file for the labels of the training set needs to be created. The predicted labels can be inferred from the scripts.
 
 ## Scripts
-main.py
+main.py , 
 helpers.py
 
 ## Co-authors
-David Wissel
+David Wissel,
 Pascal Kündig
